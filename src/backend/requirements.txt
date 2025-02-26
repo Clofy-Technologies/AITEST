@@ -230,7 +230,7 @@ pillow==11.0.0
     # via openai-messages-token-helper
 portalocker==2.10.1
     # via msal-extensions
-propcache==0.2.1
+propcache==0.3.0
     # via
     #   aiohttp
     #   yarl
